@@ -1,1 +1,1 @@
-please
+wget -O - https://raw.githubusercontent.com/alex-suspicious/please/main/install.sh | bash
