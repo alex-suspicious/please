@@ -1,5 +1,6 @@
 # Please
-A small script that allow GPT to assist you in terms of using Linux terminal 
+A small script that allow GPT to assist you in terms of using Linux terminal
+![](https://i.imgur.com/7fvfduY.gif)
 
 ## Dependencies
 1. python3
