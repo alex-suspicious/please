@@ -1,1 +1,1 @@
-wget -O - https://raw.githubusercontent.com/alex-suspicious/please/main/install.sh | bash
+wget -O - https://github.com/alex-suspicious/please/blob/main/install.sh?raw=true | bash
